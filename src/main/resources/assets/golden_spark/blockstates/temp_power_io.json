@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "golden_spark:block/temp_power_io"
+    }
+  }
+}

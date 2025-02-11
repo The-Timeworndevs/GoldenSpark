@@ -1,0 +1,12 @@
+{
+  "name": "Introduction",
+  "icon": "minecraft:paper",
+  "description": "Discoveries",
+  "category": "golden_spark:dabbling",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "'This isn't an ordinary enchanted book' you say as you open the pages of this folder. It is filled with various sketches and blueprints, but all the text is in an unfamiliar language. Perhaps you can make use of the blueprints to 'translate' the contents of this enigmatic tome..."
+    }
+  ]
+}
