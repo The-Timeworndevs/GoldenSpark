@@ -1,0 +1,6 @@
+{
+  "generate_book_item": false,
+  "name": "book.golden_spark.patent_manual",
+  "creative_tab": "gs_main_items",
+  "custom_book_item": "golden_spark:patent_manual"
+}
